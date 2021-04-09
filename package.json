@@ -1,0 +1,23 @@
+{
+  "name": "hello",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "\"first work with node\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-naku/node.git"
+  },
+  "keywords": [
+    "admin"
+  ],
+  "author": "https://github.com/o-naku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/o-naku/node/issues"
+  },
+  "homepage": "https://github.com/o-naku/node#readme"
+}
